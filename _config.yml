@@ -123,4 +123,4 @@ sitemap:
 deploy:
   type: git
   repo: https://github.com/Yuzheng-Chen/think-slowly
-  branch: main
+  branch: gh-pages
