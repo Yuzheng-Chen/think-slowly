@@ -45,14 +45,11 @@ footer:
     - icon: rss
       link: /atom.xml
   components:
-    uptime:
-      since: "2018/05/06 17:03:12"
-      text: "本站已在风雨中飘摇"
     author:
       homepage: "https://github.com/Candinya/Kratos-Rebirth/graphs/contributors"
-    additional: # 托管信息等
-      - - 由 <a href="https://hexo.io" target="_blank" rel="nofollow">Hexo</a> 强力驱动
-        - 在 <a href="https://github.io" target="_blank">Github Pages</a> 暖心托管
+    additional:
+      - - Powered by <a href="https://hexo.io" target="_blank" rel="nofollow">Hexo</a>
+        - Theme <a href="https://github.com/Candinya/Kratos-Rebirth" target="_blank">Kratos:Rebirth</a>
 
 # 代码高亮
 # syntax_highlighter:
@@ -102,7 +99,7 @@ copyright_notice:
 comments:
   core:
     enable_at:
-    # - index
+      # - index
       - post
       - page
     template:
