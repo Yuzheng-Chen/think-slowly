@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Think Slowly</title>
   
-  <subtitle>Avoid rash actions and achieve deeper understanding</subtitle>
+  <subtitle>Steer clear of fleeting impulses, and let the quiet depths of wisdom unfold.</subtitle>
   <link href="https://blog.yuzheng-chen.top/atom.xml" rel="self"/>
   
   <link href="https://blog.yuzheng-chen.top/"/>
-  <updated>2024-10-23T17:29:03.648Z</updated>
+  <updated>2024-10-23T17:40:36.000Z</updated>
   <id>https://blog.yuzheng-chen.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.yuzheng-chen.top/posts/hello-world/"/>
     <id>https://blog.yuzheng-chen.top/posts/hello-world/</id>
     <published>2018-05-06T16:03:12.000Z</published>
-    <updated>2024-10-23T17:29:03.648Z</updated>
+    <updated>2024-10-23T17:40:36.000Z</updated>
     
     <content type="html"><![CDATA[<p>欢迎使用 <code>Kratos : Rebirth</code> 这个我们精心打造的 Hexo 主题！希望能在接下来的旅途中与您相伴，共同创造出更多难以忘怀的美好体验。</p>]]></content>
     
